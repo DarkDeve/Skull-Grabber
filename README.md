@@ -96,7 +96,7 @@ Discord Injection	Puts backdoor on the Discord client for persistence.
 UAC Bypass	Tries to get administrator permissions without showing any prompt.
 
 Supports: Windows 8+ (Tested on Windows 10).
-
+--------------
 Requirements
 
 To build the stub, you need:
