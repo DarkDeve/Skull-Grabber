@@ -75,7 +75,7 @@ Features
 
 Stub Settings
 
-Option	Description
+--------------
 
 Ping Me	Pings @everyone when someone runs the stub.
 
